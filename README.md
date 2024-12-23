@@ -10,34 +10,33 @@ Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 i
 
 ## 🔧 Skills
 
-
-<h3 align="center">Languages and Tools:</h3>  
+<h2 align="center">Languages and Tools:</h2>  
 <p align="center">   
   <a href="https://www.python.org" target="_blank" rel="noreferrer">   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>   
   </a>   
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>   
+    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="60" height="60"/>   
   </a>   
   <a href="https://www.pandas.pydata.org" target="_blank" rel="noreferrer">   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>   
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>   
   </a>  
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>   
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>   
   </a>  
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>   
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>   
   </a>  
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>   
-  </a>  
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>   
+  </a>   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
   </a>  
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>   
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>   
   </a>  
-</p>  
+</p> 
 ---
 
 ## 💡 Interests
