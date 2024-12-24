@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm an enthusiastic student passionate about the intersection of **computer science, economics, and applied mathematics**. My interests lie in areas such as **machine learning**, where these disciplines converge.
+Hello! I'm an enthusiastic student passionate about the intersection of **computer science, economics, and applied mathematics**. My interests lie in areas such as **machine learning**, where these disciplines converge. I aspire to become a **Data Scientist / ML Engineer**
 
 Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 in Data Science (Double Degree)**. This repository serves as a brief showcase of my projects and skills.
 
@@ -50,19 +50,28 @@ Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 i
 - **Finance**
 
 ---
-
 ## 📂 Major Projects
 
 Here are some of the key projects I've worked on:
 
 | Project Name                     | Description                                                                 | Technologies Used                          | Link                                           |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| **Investment opportunities identification - Ardian (incoming)** | incoming | Python...                | [GitHub Repo](#)                               |
 | **Document Chat Application (RAG)** | An intelligent web application that enables users to upload documents and engage in conversations about their content using advanced Large Language Model technology. Built with FastAPI, Firebase authentication, and OpenAI's GPT models.    | OpenIA, FastAPI, Docker   | [GitHub Repo](#)                               |
-| **Analysis of LLM at small scale**        |Implementation and training of small-scale language models (<100M parameters) using the Transformers library on AWS cloud with GPU, trained on the full English Wikipedia| Python, Transformers, Pytorch, wandb.ai              | [GitHub Repo](#)                               |
-| **Sentiment Analysis**         |Web scraping to extract data, followed by sentiment analysis of the top 100 box office films    | Python, selenium, NLTK, SpaCy, Scikit-learn, Pandas,      | [GitHub Repo](#)                               |
+| **Analysis of LLM at small scale - INRIA**        | Implementation and training of small-scale language models (<100M parameters) using the Transformers library on AWS cloud with GPU, trained on the full English Wikipedia| Python, Transformers, Pytorch, wandb.ai              | [GitHub Repo](#)                               |
+| **Sentiment Analysis**         | Web scraping to extract data, followed by sentiment analysis of the top 100 box office films    | Python, Selenium, NLTK, SpaCy, Scikit-learn, Pandas      | [GitHub Repo](#)                               |
 
 
 ---
+
+## 🛠️ Other Projects  
+
+| Project Name                     | Description                                                                 | Technologies Used                          | Link                                           |
+|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| **Double Descent**        | incoming       | Python, Pytorch, git | [GitHub Repo](#)                               |
+| **Bayesian Statistics: Optimal Bayesian Estimation of Gaussian Mixtures with a Growing Number of Components**        | incoming       | Python, git | [GitHub Repo](#)                               |
+| **Time Series Analysis of the French industrial Production Index for Electricity Production**      | Data cleaning, transformation to stationnarity model selection and validation using ARMA and ARIMA models | R      | [GitHub Repo](#)                               |
+
 
 ## 🚀 Get In Touch
 
