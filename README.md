@@ -44,8 +44,10 @@ Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 i
 - **Machine Learning**  
 - **Statistical Modeling**  
 - **NLP**  
-- **Algorithm Design**  
-- **Macroeconomics**  
+- **Algorithm Design**
+- **Software engeneering** 
+- **Macroeconomics**
+- **Finance**
 
 ---
 
