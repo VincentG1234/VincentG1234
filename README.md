@@ -75,8 +75,7 @@ Here are some of the key projects I've worked on:
 
 ## 🚀 Get In Touch
 
-- **LinkedIn**: [My LinkedIn](#)  
-- **GitHub**: [My GitHub Profile](#)  
+- **LinkedIn**: [My LinkedIn](https://www.linkedin.com/in/vincent-gimenes-438157222/)  
 - **Email**: Vincent.gimenes@gmail.com  
 
 Feel free to explore the repository and reach out if you’d like to collaborate or discuss exciting ideas!  
