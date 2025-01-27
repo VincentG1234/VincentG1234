@@ -56,10 +56,10 @@ Here are some of the key projects I've worked on:
 
 | Project Name                     | Description                                                                 | Technologies Used                          | Link                                           |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
-| **Investment opportunities identification - Ardian (incoming)** | incoming | Python...                | [GitHub Repo](#)                               |
-| **Document Chat Application (RAG)** | An intelligent web application that enables users to upload documents and engage in conversations about their content using advanced Large Language Model technology. Built with FastAPI, Firebase authentication, and OpenAI's GPT models.    | OpenIA, FastAPI, Docker   | [GitHub Repo](#)                               |
-| **Analysis of LLM at small scale - INRIA**        | Implementation and training of small-scale language models (<100M parameters) using the Transformers library on AWS cloud with GPU, trained on the full English Wikipedia| Python, Transformers, Pytorch, wandb.ai              | [GitHub Repo](#)                               |
-| **Sentiment Analysis**         | Web scraping to extract data, followed by sentiment analysis of the top 100 box office films    | Python, Selenium, NLTK, SpaCy, Scikit-learn, Pandas      | [GitHub Repo](#)                               |
+| **Investment opportunities identification - Ardian (incoming)** | incoming | Python...                | [link incoming](#)                               |
+| **Document Chat Application (RAG)** | An intelligent web application that enables users to upload documents and engage in conversations about their content using advanced Large Language Model technology. Built with FastAPI, Firebase authentication, and OpenAI's GPT models.    | OpenIA, FastAPI, Docker   | [link incoming](#)                               |
+| **Analysis of LLM at small scale - INRIA**        | Implementation and training of small-scale language models (<100M parameters) using the Transformers library on AWS cloud with GPU, trained on the full English Wikipedia| Python, Transformers, Pytorch, wandb.ai              | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Statistique%20Appliqu%C3%A9e)                               |
+| **Sentiment Analysis**         | Web scraping to extract data, followed by sentiment analysis of the top 100 box office films    | Python, Selenium, NLTK, SpaCy, Scikit-learn, Pandas      | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Python%20for%20data%20science)                               |
 
 
 ---
@@ -68,9 +68,9 @@ Here are some of the key projects I've worked on:
 
 | Project Name                     | Description                                                                 | Technologies Used                          | Link                                           |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
-| **Double Descent**        | incoming       | Python, Pytorch, git | [GitHub Repo](#)                               |
-| **Bayesian Statistics: Optimal Bayesian Estimation of Gaussian Mixtures with a Growing Number of Components**        | incoming       | Python, git | [GitHub Repo](#)                               |
-| **Time Series Analysis of the French industrial Production Index for Electricity Production**      | Data cleaning, transformation to stationnarity model selection and validation using ARMA and ARIMA models | R      | [GitHub Repo](#)                               |
+| **Double Descent**        | incoming       | Python, Pytorch, git | [GitHub Repo](https://github.com/Pierre-Clayton/AML-Project)                               |
+| **Bayesian Statistics: Optimal Bayesian Estimation of Gaussian Mixtures with a Growing Number of Components**        | incoming       | Python, git | [GitHub Repo](https://github.com/Pierre-Clayton/Bayesian-stats-project)                               |
+| **Time Series Analysis of the French industrial Production Index for Electricity Production**      | Data cleaning, transformation to stationnarity model selection and validation using ARMA and ARIMA models | R      | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Linear%20Time%20Series)                               |
 
 
 ## 🚀 Get In Touch
