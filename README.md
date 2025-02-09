@@ -56,10 +56,19 @@ Here are some of the key projects I've worked on:
 
 | Project Name                     | Description                                                                 | Technologies Used                          | Link                                           |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
-| **Investment opportunities identification - Ardian (incoming)** | incoming | Python...                | [link incoming](#)                               |
+| **Investment opportunities identification - Ardian (incoming)** | incoming | Python, BERT, Azure                | [link incoming](#)                               |
 | **Document Chat Application (RAG)** | An intelligent web application that enables users to upload documents and engage in conversations about their content using advanced Large Language Model technology. Built with FastAPI, Firebase authentication, and OpenAI's GPT models.    | OpenIA, FastAPI, Docker   | [link incoming](#)                               |
 | **Analysis of LLM at small scale - INRIA**        | Implementation and training of small-scale language models (<100M parameters) using the Transformers library on AWS cloud with GPU, trained on the full English Wikipedia| Python, Transformers, Pytorch, wandb.ai              | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Statistique%20Appliqu%C3%A9e)                               |
 | **Sentiment Analysis**         | Web scraping to extract data, followed by sentiment analysis of the top 100 box office films    | Python, Selenium, NLTK, SpaCy, Scikit-learn, Pandas      | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Python%20for%20data%20science)                               |
+
+---
+
+## 🏆 Hackathon Projects  
+
+| Hackathon Name                     | Description                                                                 | Technologies Used                          | Link                                           |
+|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| [**H-Gen AI 2025**](https://www.linkedin.com/posts/maximegonnet_ce-week-end-sest-d%C3%A9roul%C3%A9e-la-1%C3%A8re-%C3%A9dition-activity-7292436769227046912-AaeP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfoMqwBsNKYxhFxcwerNSQDZUKNKq69cBI) (**WINNER**)   | document analysis tool developed for Gide, a leading international law firm. The application streamlines the audit process by automatically analyzing PDF documents using Large Language Models (LLM) and generating structured audit reports in Word format based on predefined templates. | Python, AWS, RAG | [GitHub Repo](https://github.com/YourUsername/Resume-Screener) |
+| [**H!Paris**](https://www.hi-paris.fr/hickathon/)   | model trained to predict water levels in water tables over time.  | Python, XGboost, LSTM | None |
 
 
 ---
@@ -68,8 +77,8 @@ Here are some of the key projects I've worked on:
 
 | Project Name                     | Description                                                                 | Technologies Used                          | Link                                           |
 |----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
-| **Double Descent**        | The project explores the double descent phenomenon, where test error improves after overparameterization, using linear regression, RFF, and neural networks. Experiments confirm that implicit biases enable overparameterized models to generalize effectively, challenging traditional overfitting views.       | Python, Pytorch, git | [GitHub Repo](https://github.com/Pierre-Clayton/AML-Project)                               |
-| **Bayesian Statistics: Optimal Bayesian Estimation of Gaussian Mixtures with a Growing Number of Components**        | The project extends Bayesian estimation for Gaussian mixture models to t-Student mixtures, leveraging their suitability for heavy-tailed data. While theoretical challenges arise due to the t-Student's heavy tails, empirical simulations show Bayesian methods perform robustly, particularly in scenarios with complex or heavy-tailed distributions, making them valuable for real-world applications.       | Python, git | [GitHub Repo](https://github.com/Pierre-Clayton/Bayesian-stats-project)                               |
+| **Double Descent**        | The project explores the double descent phenomenon, where test error improves after overparameterization, using linear regression, RFF, and neural networks. Experiments confirm that implicit biases enable overparameterized models to generalize effectively, challenging traditional overfitting views.       | Python, Pytorch, git | [GitHub Repo](https://github.com/Pierre-Clayton/AdvancedML-Project)                               |
+| **Bayesian Statistics: Optimal Bayesian Estimation of t-Student Mixtures with a Growing Number of Components**        | The project extends Bayesian estimation for Gaussian mixture models to t-Student mixtures, leveraging their suitability for heavy-tailed data. While theoretical challenges arise due to the t-Student's heavy tails, empirical simulations show Bayesian methods perform robustly, particularly in scenarios with complex or heavy-tailed distributions, making them valuable for real-world applications.       | Python, git | [GitHub Repo](https://github.com/Pierre-Clayton/Bayesian-stats-project)                               |
 | **Time Series Analysis of the French industrial Production Index for Electricity Production**      | Data cleaning, transformation to stationnarity model selection and validation using ARMA and ARIMA models | R      | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Linear%20Time%20Series)                               |
 
 
