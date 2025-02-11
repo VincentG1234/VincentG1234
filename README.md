@@ -37,6 +37,7 @@ Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 i
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>   
   </a>  
 </p> 
+
 ---
 
 ## 💡 Interests
