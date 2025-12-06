@@ -2,10 +2,9 @@
 
 ## About Me
 
-Hello! I'm an enthusiastic student passionate about the intersection of **computer science, economics, and applied mathematics**. My interests lie in areas such as **machine learning**, where these disciplines converge. I aspire to become a **Data Scientist / ML Engineer**
+Hello! I'm an enthusiastic AI Engineer with a strong passion for the intersection of **computer science, economics, and applied mathematics**. My focus is on **machine learning** and its practical applications in real-world scenarios. 
 
-Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 in Data Science (Double Degree)**. This repository serves as a brief showcase of my projects and skills.
-
+I hold a **Master 2 in Data Science (Double Degree)** from **ENSAE Paris** and have hands-on experience in deploying AI solutions. This repository showcases some of my early projects and skills in the field.
 ---
 
 ## 🔧 Skills
@@ -44,11 +43,12 @@ Currently, I am pursuing my studies at **ENSAE Paris**, alongside a **Master 2 i
 
 - **Machine Learning**  
 - **Statistical Modeling**  
-- **NLP**  
+- **NLP & LLMs**  
 - **Algorithm Design**
 - **Software engineering [(certification)](https://www.hackerrank.com/certificates/iframe/0cad12beb5a5)** 
 - **Macroeconomics**
 - **Finance**
+- **HPC**
 
 ---
 ## 📂 Major Projects
