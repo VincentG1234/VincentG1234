@@ -4,7 +4,6 @@
 
 Hello! I'm an enthusiastic AI Engineer with a strong passion for the intersection of **computer science, economics, and applied mathematics**. My focus is on **machine learning** and its practical applications in real-world scenarios. 
 
-I hold a **Master 2 in Data Science (Double Degree)** from **ENSAE Paris** and have hands-on experience in deploying AI solutions. This repository showcases some of my early projects and skills in the field.
 ---
 
 ## 🔧 Skills
