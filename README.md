@@ -1,55 +1,92 @@
-# 👋 Welcome to My Profile Repository
+#  Vincent Gimenes
 
-## About Me
+**Machine Learning Engineer — LLM Systems, Inference & Applied AI**
 
-Hello! I'm an enthusiastic AI Engineer with a strong passion for the intersection of **computer science, economics, and applied mathematics**. My focus is on **machine learning** and its practical applications in real-world scenarios. 
+I design, deploy, and optimize **production AI systems** with a focus on **LLM inference, performance engineering, and real-world deployment**.
 
----
+My work sits at the intersection of:
 
-## 🔧 Skills
+* Large Language Models & agents
+* inference performance & GPU efficiency
+* ML systems & cloud infrastructure
+* applied AI for document intelligence & decision workflows
 
-<h2 align="center">Languages and Tools:</h2>  
-<p align="center">   
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>   
-  </a>   
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="60" height="60"/>   
-  </a>   
-  <a href="https://www.pandas.pydata.org" target="_blank" rel="noreferrer">   
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>   
-  </a>  
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">   
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="60" height="60"/>   
-  </a>  
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>   
-  </a>  
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="60" height="60"/>   
-  </a>   
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
-  </a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">   
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>   
-  </a>  
-</p> 
 
----
+## 🧠 Core Expertise
 
-## 💡 Interests
+### LLM Systems & Inference
 
-- **Machine Learning**  
-- **Statistical Modeling**  
-- **NLP & LLMs**  
-- **Algorithm Design**
-- **Software engineering [(certification)](https://www.hackerrank.com/certificates/iframe/0cad12beb5a5)** 
-- **Macroeconomics**
-- **Finance**
-- **HPC**
+* vLLM deployment & optimization
+* speculative decoding & batching strategies
+* KV-cache monitoring & memory pressure mitigation
+* latency & throughput optimization
+* GPU scheduling & orchestration
 
----
+### Applied AI & Retrieval Systems
+
+* RAG agents & document intelligence
+* structured information extraction
+* evaluation pipelines & schema design
+* prompt & system design
+
+### ML Engineering & Infrastructure
+
+* Kubernetes, Docker, ArgoCD
+* GPU workloads & CUDA environments
+* monitoring & performance profiling
+* scalable API deployment
+
+
+## 🛠 Technical Stack
+
+**Languages**
+Python • C++ • Bash • JS 
+
+**AI & ML**
+PyTorch • Transformers • vLLM • Triton • scikit-learn
+
+**Infrastructure & MLOps**
+Docker • Kubernetes • ArgoCD • Linux • Git
+
+
+## ✍️ Writing Blog posts for Quickscale AI
+
+* Fine-tuning small Vision-Language models for structured extraction
+* Context window scaling & memory implications
+* Deploying GPT-OSS-20B with vLLM
+* Training & workshops on LLM agents and deployment
+
+
+## 🎓 Education
+
+**ENSAE Paris — Institut Polytechnique de Paris**
+Engineering Program 
+
+Focus areas:
+Advanced & Bayesian Statistics • Machine Learning • Optimization • Econometrics • Parallel Computing • Deep Learning • NLP
+
+## ⭐ Indi Projects
+
+### 🖥 FloatPilot — Desktop LLM Client
+
+**Lightweight always-on-top AI assistant**
+
+* Instant screenshot capture injected into LLM context
+* Global shortcut & frictionless workflow
+* Public distribution with landing page
+
+➡️ [https://floatpilot.app](https://floatpilot.app)
+
+
+## 🏆 Hackathon Project  
+
+| Hackathon Name                     | Description                                                                 | Technologies Used                          | Link                                           |
+|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
+| [**Hackathon Banque de France**](https://www.linkedin.com/posts/le-lab-banque-de-france_hackathon-ia-innovation-activity-7341830104420941825-5EEm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfoMqwBsNKYxhFxcwerNSQDZUKNKq69cBI) (**WINNER**) | Design a solution that automatically identifies legal topics of interest currently handled by the business, based on documentation, and generates legal monitoring content on these topics (such as articles, news, codes of conduct, and European legislation) to be distributed via a newsletter. | Python, Azure, React, RSS flux, GPT API, TF-IDF | forbidden to share the solution |
+| [**H-Gen AI 2025**](https://www.linkedin.com/posts/maximegonnet_ce-week-end-sest-d%C3%A9roul%C3%A9e-la-1%C3%A8re-%C3%A9dition-activity-7292436769227046912-AaeP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfoMqwBsNKYxhFxcwerNSQDZUKNKq69cBI) (**WINNER**)  | document analysis tool developed for Gide, a leading international law firm. The application streamlines the audit process by automatically analyzing PDF documents using Large Language Models (LLM) and generating structured audit reports in Word format based on predefined templates. | Python, AWS, RAG | [GitHub Repo](https://github.com/YourUsername/Resume-Screener) |
+| [**H!Paris**](https://www.hi-paris.fr/hickathon/)   | model trained to predict water levels in water tables over time.  | Python, XGboost, LSTM | None |
+
+
 ## 📂 Major Projects
 
 Here are some of the key projects I've worked on:
@@ -60,18 +97,6 @@ Here are some of the key projects I've worked on:
 | **Document Chat Application (RAG)** | An intelligent web application that enables users to upload documents and engage in conversations about their content using advanced Large Language Model technology. Built with FastAPI, Firebase authentication, and OpenAI's GPT models.    | OpenIA, FastAPI, Docker, K8s   | [Github Repo](https://github.com/VincentG1234/MLops_ENSAE.git)                               |
 | **Analysis of LLM at small scale - INRIA**        | Implementation and training of small-scale language models (<100M parameters) using the Transformers library on AWS cloud with GPU, trained on the full English Wikipedia| Python, Transformers, Pytorch, wandb.ai              | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Statistique%20Appliqu%C3%A9e)                               |
 
----
-
-## 🏆 Hackathon Projects  
-
-| Hackathon Name                     | Description                                                                 | Technologies Used                          | Link                                           |
-|----------------------------------|-----------------------------------------------------------------------------|-------------------------------------------|------------------------------------------------|
-| [**Hackathon Banque de France**](https://www.linkedin.com/posts/le-lab-banque-de-france_hackathon-ia-innovation-activity-7341830104420941825-5EEm?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfoMqwBsNKYxhFxcwerNSQDZUKNKq69cBI) (**WINNER**) | Design a solution that automatically identifies legal topics of interest currently handled by the business, based on documentation, and generates legal monitoring content on these topics (such as articles, news, codes of conduct, and European legislation) to be distributed via a newsletter. | Python, Azure, React, RSS flux, GPT API, TF-IDF | forbidden to share the solution |
-| [**H-Gen AI 2025**](https://www.linkedin.com/posts/maximegonnet_ce-week-end-sest-d%C3%A9roul%C3%A9e-la-1%C3%A8re-%C3%A9dition-activity-7292436769227046912-AaeP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADfoMqwBsNKYxhFxcwerNSQDZUKNKq69cBI) (**WINNER**)  | document analysis tool developed for Gide, a leading international law firm. The application streamlines the audit process by automatically analyzing PDF documents using Large Language Models (LLM) and generating structured audit reports in Word format based on predefined templates. | Python, AWS, RAG | [GitHub Repo](https://github.com/YourUsername/Resume-Screener) |
-| [**H!Paris**](https://www.hi-paris.fr/hickathon/)   | model trained to predict water levels in water tables over time.  | Python, XGboost, LSTM | None |
-
-
----
 
 ## 🛠️ Other Projects  
 
@@ -82,6 +107,12 @@ Here are some of the key projects I've worked on:
 | **Time Series Analysis of the French industrial Production Index for Electricity Production**      | Data cleaning, transformation to stationnarity model selection and validation using ARMA and ARIMA models | R      | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Linear%20Time%20Series)                               |
 |  **Sentiment Analysis**  | Web scraping to extract data, followed by sentiment analysis of the top 100 box office films   |  Python, Selenium, NLTK, SpaCy, Scikit-learn, Pandas  | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Python%20for%20data%20science)  |
 
+
+## 🌍 Languages
+
+French (native)
+English (B2–C1)
+Russian (B1)
 
 ## 🚀 Get In Touch
 
