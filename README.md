@@ -1,6 +1,6 @@
 #  Vincent Gimenes
 
-**Machine Learning Engineer — LLM Systems, Inference & Applied AI**
+**Machine Learning Engineer — LLM Systems, Inference, ops & Applied AI**
 
 I design, deploy, and optimize **production AI systems** with a focus on **LLM inference, performance engineering, and real-world deployment**.
 
@@ -17,24 +17,29 @@ My work sits at the intersection of:
 ### LLM Systems & Inference
 
 * vLLM deployment & optimization
-* speculative decoding & batching strategies
-* KV-cache monitoring & memory pressure mitigation
+* speculative decoding 
 * latency & throughput optimization
 * GPU scheduling & orchestration
+* Kubernetes, Docker, ArgoCD
+* Monitoring & performance profiling
 
 ### Applied AI & Retrieval Systems
 
 * RAG agents & document intelligence
 * structured information extraction
 * evaluation pipelines & schema design
-* prompt & system design
+* NLP (TF-IDF, BM25, NER, sentence similarity, ...)
 
-### ML Engineering & Infrastructure
+### ML Theory, Optimization & Statistics
 
-* Kubernetes, Docker, ArgoCD
-* GPU workloads & CUDA environments
-* monitoring & performance profiling
-* scalable API deployment
+* statistical learning fundamentals (bias–variance, generalization)
+* statistical inference & hypothesis testing
+* optimization for ML (SGD variants, momentum/Adam, convex basics)
+* regularization & model selection
+* uncertainty, calibration & robust evaluation (metrics, error analysis)
+* experiment design & A/B testing for model changes
+* Tail event analysis
+* Queuing theory
 
 
 ## 🛠 Technical Stack
@@ -54,7 +59,7 @@ Docker • Kubernetes • ArgoCD • Linux • Git
 * Fine-tuning small Vision-Language models for structured extraction
 * Context window scaling & memory implications
 * Deploying GPT-OSS-20B with vLLM
-* Training & workshops on LLM agents and deployment
+* Practical guide on Speculative Decoding
 
 
 ## 🎓 Education
@@ -111,7 +116,7 @@ Here are some of the key projects I've worked on:
 ## 🌍 Languages
 
 French (native)
-English (B2–C1)
+English (B2-C1)
 Russian (B1)
 
 ## 🚀 Get In Touch
