@@ -26,14 +26,24 @@ Currently working on large-scale self-hosted LLM platforms, observability and au
 
 ## 🛠 Technical Stack
 
-**Languages**
-Python • C++ • Bash • JS 
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**AI & ML**
-PyTorch • Transformers • vLLM • Triton • scikit-learn
+### AI & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-000000?logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-**Infrastructure & MLOps**
-Docker • Kubernetes • ArgoCD • Linux • Git
+### Infrastructure & MLOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 
 ## ✍️ Writing Blog posts for Quickscale AI
