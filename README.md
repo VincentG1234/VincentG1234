@@ -1,45 +1,27 @@
 #  Vincent Gimenes
 
-**Machine Learning Engineer — LLM Systems, Inference, ops & Applied AI**
+LLM Inference Engineer focused on serving, optimization and production AI systems.
 
-I design, deploy, and optimize **production AI systems** with a focus on **LLM inference, performance engineering, and real-world deployment**.
+Contributing to open-source inference infrastructure (vLLM ecosystem, GuideLLM, NVIDIA GPU Operator).
 
-My work sits at the intersection of:
-
-* Large Language Models & agents
-* inference performance & GPU efficiency
-* ML systems & cloud infrastructure
-* applied AI for document intelligence & decision workflows
+Currently working on large-scale self-hosted LLM platforms, observability and automated performance tuning.
 
 
-## 🧠 Core Expertise
+## Current Focus
 
-### LLM Systems & Inference
+- LLM inference optimization (vLLM, speculative decoding, scheduling)
+- GPU observability and performance engineering
+- Automated tuning of inference servers
+- Kubernetes-based AI infrastructure
+- Production benchmarking and replay systems
 
-* vLLM deployment & optimization
-* speculative decoding 
-* latency & throughput optimization
-* GPU scheduling & orchestration
-* Kubernetes, Docker, ArgoCD
-* Monitoring & performance profiling
+## Selected Achievements
 
-### Applied AI & Retrieval Systems
-
-* RAG agents & document intelligence
-* structured information extraction
-* evaluation pipelines & schema design
-* NLP (TF-IDF, BM25, NER, sentence similarity, ...)
-
-### ML Theory, Optimization & Statistics
-
-* statistical learning fundamentals (bias–variance, generalization)
-* statistical inference & hypothesis testing
-* optimization for ML (SGD variants, momentum/Adam, convex basics)
-* regularization & model selection
-* uncertainty, calibration & robust evaluation (metrics, error analysis)
-* experiment design & A/B testing for model changes
-* Tail event analysis
-* Queuing theory
+- Scaled self-hosted LLM platforms used by 500+ developers
+- Supported workloads up to 1M requests/day
+- Achieved up to 2.7× throughput improvements with speculative decoding
+- Merged contributions into NVIDIA GPU Operator, vLLM, GuideLLM and speculators
+- Built automated benchmarking and tuning systems for vLLM (https://github.com/InseeFrLab/auto-tuning-vllm)
 
 
 ## 🛠 Technical Stack
@@ -60,15 +42,6 @@ Docker • Kubernetes • ArgoCD • Linux • Git
 * Context window scaling & memory implications
 * Deploying GPT-OSS-20B with vLLM
 * Practical guide on Speculative Decoding
-
-
-## 🎓 Education
-
-**ENSAE Paris — Institut Polytechnique de Paris**
-Engineering Program 
-
-Focus areas:
-Advanced & Bayesian Statistics • Machine Learning • Optimization • Econometrics • Parallel Computing • Deep Learning • NLP
 
 ## ⭐ Indi Projects
 
@@ -113,11 +86,6 @@ Here are some of the key projects I've worked on:
 |  **Sentiment Analysis**  | Web scraping to extract data, followed by sentiment analysis of the top 100 box office films   |  Python, Selenium, NLTK, SpaCy, Scikit-learn, Pandas  | [GitHub Repo](https://github.com/VincentG1234/ENSAE-Projects/tree/main/2A%20(Master1)/Python%20for%20data%20science)  |
 
 
-## 🌍 Languages
-
-French (native)
-English (B2-C1)
-Russian (B1)
 
 ## 🚀 Get In Touch
 
