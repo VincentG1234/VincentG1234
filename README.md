@@ -1,8 +1,8 @@
 #  Vincent Gimenes
 
-LLM Inference Engineer focused on serving, optimization and production AI systems.
+ML Engineer focused on serving, optimization and production AI systems.
 
-Contributing to open-source inference infrastructure (vLLM ecosystem, GuideLLM, NVIDIA GPU Operator).
+Contributing to open-source inference infrastructure (vLLM ecosystem, GuideLLM, NVIDIA GPU Operator, Litellm).
 
 Currently working on large-scale self-hosted LLM platforms, observability and automated performance tuning.
 
