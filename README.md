@@ -19,7 +19,7 @@ Currently working on large-scale self-hosted LLM platforms, observability and au
 
 - Scaled self-hosted LLM platforms used by 500+ developers
 - Supported workloads up to 1M requests/day
-- Achieved up to 2.7× throughput improvements with speculative decoding
+- Achieved up to 3× throughput improvements with speculative decoding
 - Merged contributions into NVIDIA GPU Operator, vLLM, GuideLLM and speculators
 - Built automated benchmarking and tuning systems for vLLM (https://github.com/InseeFrLab/auto-tuning-vllm)
 
