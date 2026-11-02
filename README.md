@@ -15,14 +15,16 @@ Currently working on large-scale self-hosted LLM platforms, observability and au
 - Kubernetes-based AI infrastructure
 - Production benchmarking and replay systems
 
-## Selected Achievements
+## Open-Source Contributions
 
-- Scaled self-hosted LLM platforms used by 500+ developers
-- Supported workloads up to 1M requests/day
-- Achieved up to 3× throughput improvements with speculative decoding
-- Merged contributions into NVIDIA GPU Operator, vLLM, GuideLLM and speculators
-- Built automated benchmarking and tuning systems for vLLM (https://github.com/InseeFrLab/auto-tuning-vllm)
+Contributing to open-source projects across LLM inference, benchmarking, and GPU infrastructure.
 
+- **[vLLM](https://github.com/vllm-project/vllm)** — Contributions to the inference engine ([#35060](https://github.com/vllm-project/vllm/pull/35060), [#33109](https://github.com/vllm-project/vllm/pull/33109)).
+- **[Speculators](https://github.com/vllm-project/speculators)** — Improvements to speculative decoding with EAGLE3 ([#317](https://github.com/vllm-project/speculators/pull/317)).
+- **[GuideLLM](https://github.com/vllm-project/guidellm)** — Improvements to inference benchmarking and production traffic replay ([#620](https://github.com/vllm-project/guidellm/pull/620), [#745](https://github.com/vllm-project/guidellm/pull/745)).
+- **[NVIDIA GPU Operator](https://github.com/NVIDIA/gpu-operator/pull/2262)** — Fixed inconsistent default GPU monitoring configurations between GPU Operator and DCGM Exporter ([#2262](https://github.com/NVIDIA/gpu-operator/pull/2262)).
+- **[LiteLLM](https://github.com/BerriAI/litellm/pull/44574)** — Added configurable per-deployment embedding batch size limits ([#44574](https://github.com/BerriAI/litellm/pull/44574)).
+- **[auto-tuning-vllm](https://github.com/InseeFrLab/auto-tuning-vllm)** — Maintaining an open-source tool for automated vLLM benchmarking and performance tuning using Optuna.
 
 ## 🛠 Technical Stack
 
